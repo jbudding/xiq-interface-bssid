@@ -185,3 +185,7 @@ The tool normalizes MAC addresses from various formats to a consistent colon-sep
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Attribution Required:** Any use, redistribution, or incorporation of this software must include credit to [Jeff Buddington](https://www.linkedin.com/in/jeff-buddington-5178ba4).
+
+## Disclaimer
+
+The software is provided as-is and Extreme Networks has no obligation to provide maintenance, support, updates, enhancements, or modifications. Any support provided by Extreme Networks is at its sole discretion.
