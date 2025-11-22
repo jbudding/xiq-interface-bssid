@@ -27,7 +27,7 @@ cargo build --release
 
 ## Configuration
 
-Create a `.env` file in the project root:
+It's not recommended to store variables permanently in the `.env` file in the project root directory. This method is simply a cross platform way to easily specify environment variables.
 
 ```env
 XIQ_USERNAME=your_username
