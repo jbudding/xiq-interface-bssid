@@ -189,3 +189,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Disclaimer
 
 The software is provided as-is and Extreme Networks has no obligation to provide maintenance, support, updates, enhancements, or modifications. Any support provided by Extreme Networks is at its sole discretion.
+
+**Security Notice:** For security purposes, do not permanently store your CloudIQ username and password in the environment file—it is there only as a reference. Instead, temporarily set your environment variables and then clear them out after you run the application.
